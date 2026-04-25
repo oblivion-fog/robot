@@ -1,0 +1,32 @@
+[0.018s] Invoking command in '/home/fog/rob_ws/build/three_car_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/fog/rob_ws/src/three_car_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/fog/rob_ws/install/three_car_description
+[0.065s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.209s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.315s] -- Configuring done
+[0.331s] -- Generating done
+[0.335s] -- Build files have been written to: /home/fog/rob_ws/build/three_car_description
+[0.341s] Invoked command in '/home/fog/rob_ws/build/three_car_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/fog/rob_ws/src/three_car_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/fog/rob_ws/install/three_car_description
+[0.342s] Invoking command in '/home/fog/rob_ws/build/three_car_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/fog/rob_ws/build/three_car_description -- -j16 -l16
+[0.399s] Invoked command in '/home/fog/rob_ws/build/three_car_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/fog/rob_ws/build/three_car_description -- -j16 -l16
+[0.411s] Invoking command in '/home/fog/rob_ws/build/three_car_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/fog/rob_ws/build/three_car_description
+[0.421s] -- Install configuration: ""
+[0.421s] -- Execute custom install script
+[0.422s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description//urdf/three_car.urdf
+[0.435s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description//urdf/three_car.urdf.xacro
+[0.447s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description//launch/display.launch.xml
+[0.460s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description//rviz/model.rviz
+[0.473s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/ament_index/resource_index/package_run_dependencies/three_car_description
+[0.486s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/ament_index/resource_index/parent_prefix_path/three_car_description
+[0.498s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description/environment/ament_prefix_path.sh
+[0.509s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description/environment/ament_prefix_path.dsv
+[0.520s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description/environment/path.sh
+[0.532s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description/environment/path.dsv
+[0.545s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description/local_setup.bash
+[0.557s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description/local_setup.sh
+[0.569s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description/local_setup.zsh
+[0.581s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description/local_setup.dsv
+[0.592s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description/package.dsv
+[0.604s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/ament_index/resource_index/packages/three_car_description
+[0.616s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description/cmake/three_car_descriptionConfig.cmake
+[0.627s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description/cmake/three_car_descriptionConfig-version.cmake
+[0.641s] -- Symlinking: /home/fog/rob_ws/install/three_car_description/share/three_car_description/package.xml
+[0.656s] Invoked command in '/home/fog/rob_ws/build/three_car_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/fog/rob_ws/build/three_car_description

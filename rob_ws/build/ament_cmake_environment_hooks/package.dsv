@@ -1,0 +1,4 @@
+source;share/three_car_description/local_setup.bash
+source;share/three_car_description/local_setup.dsv
+source;share/three_car_description/local_setup.sh
+source;share/three_car_description/local_setup.zsh

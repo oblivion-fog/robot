@@ -1,0 +1,6 @@
+Invoking command in '/home/fog/rob_ws/build/three_car_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/fog/rob_ws/src/three_car_description -DCMAKE_INSTALL_PREFIX=/home/fog/rob_ws/install/three_car_description
+Invoked command in '/home/fog/rob_ws/build/three_car_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/fog/rob_ws/src/three_car_description -DCMAKE_INSTALL_PREFIX=/home/fog/rob_ws/install/three_car_description
+Invoking command in '/home/fog/rob_ws/build/three_car_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/fog/rob_ws/build/three_car_description -- -j16 -l16
+Invoked command in '/home/fog/rob_ws/build/three_car_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/fog/rob_ws/build/three_car_description -- -j16 -l16
+Invoking command in '/home/fog/rob_ws/build/three_car_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/fog/rob_ws/build/three_car_description
+Invoked command in '/home/fog/rob_ws/build/three_car_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/fog/rob_ws/build/three_car_description
