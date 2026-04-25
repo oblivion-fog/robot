@@ -1,0 +1,12 @@
+<launch>
+    <node pkg="my_py_pkg" exec="number_pub" name="number_pub" output="screen">
+        <!-- remap the topic name from /num_topic to /robot_num -->
+        <remap from="/num_topic" to="/robot_num" />
+        <!-- <param name="timer_period" value="1.5" />
+        <param name="number" value="2" /> -->
+        <param from="$(find-pkg-share my_robot_bringup)/config/number_app.yaml" />
+    </node> 
+    <node pkg="my_py_pkg" exec="number_count" name="number_count" output="screen" >
+        <remap from="/num_topic" to="/robot_num" />
+    </node>
+</launch>

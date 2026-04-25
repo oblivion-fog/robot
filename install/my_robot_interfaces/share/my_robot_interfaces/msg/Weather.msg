@@ -1,0 +1,1 @@
+/home/fog/ros2_ws/src/my_robot_interfaces/msg/Weather.msg

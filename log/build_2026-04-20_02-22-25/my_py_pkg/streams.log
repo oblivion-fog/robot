@@ -1,0 +1,67 @@
+[0.860s] Invoking command in '/home/fog/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/fog/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/fog/ros2_ws/build/my_py_pkg/build
+[1.110s] running develop
+[1.272s] Removing /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.292s] Invoked command in '/home/fog/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/fog/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/fog/ros2_ws/build/my_py_pkg/build
+[1.294s] Invoking command in '/home/fog/ros2_ws/src/my_py_pkg': PYTHONPATH=/home/fog/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/fog/ros2_ws/build/my_py_pkg/build install --record /home/fog/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data --force
+[1.524s] running egg_info
+[1.525s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[1.525s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[1.525s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[1.525s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[1.526s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[1.527s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.529s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.529s] running build
+[1.529s] running build_py
+[1.529s] creating /home/fog/ros2_ws/build/my_py_pkg/build
+[1.529s] creating /home/fog/ros2_ws/build/my_py_pkg/build/lib
+[1.529s] creating /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.529s] copying my_py_pkg/number_count.py -> /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.530s] copying my_py_pkg/__init__.py -> /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.530s] copying my_py_pkg/model_node.py -> /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.531s] copying my_py_pkg/add_two_ints_client.py -> /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.531s] copying my_py_pkg/add_two_ints_server.py -> /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.532s] copying my_py_pkg/robot_sub.py -> /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.533s] copying my_py_pkg/weather_show.py -> /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.533s] copying my_py_pkg/number_pub.py -> /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.533s] copying my_py_pkg/add_three_ints_server.py -> /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.534s] copying my_py_pkg/robot_pub.py -> /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.535s] running install
+[1.535s] running install_lib
+[1.537s] creating /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.537s] copying /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/number_count.py -> /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.537s] copying /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.538s] copying /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/model_node.py -> /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.538s] copying /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_client.py -> /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.538s] copying /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_server.py -> /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.538s] copying /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/robot_sub.py -> /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.538s] copying /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/weather_show.py -> /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.538s] copying /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/number_pub.py -> /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.538s] copying /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/add_three_ints_server.py -> /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.538s] copying /home/fog/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/robot_pub.py -> /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.538s] byte-compiling /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_count.py to number_count.cpython-310.pyc
+[1.539s] byte-compiling /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__init__.py to __init__.cpython-310.pyc
+[1.539s] byte-compiling /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/model_node.py to model_node.cpython-310.pyc
+[1.539s] byte-compiling /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_client.py to add_two_ints_client.cpython-310.pyc
+[1.539s] byte-compiling /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_server.py to add_two_ints_server.cpython-310.pyc
+[1.540s] byte-compiling /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/robot_sub.py to robot_sub.cpython-310.pyc
+[1.540s] byte-compiling /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/weather_show.py to weather_show.cpython-310.pyc
+[1.540s] byte-compiling /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_pub.py to number_pub.cpython-310.pyc
+[1.541s] byte-compiling /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_three_ints_server.py to add_three_ints_server.cpython-310.pyc
+[1.541s] byte-compiling /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/robot_pub.py to robot_pub.cpython-310.pyc
+[1.542s] running install_data
+[1.542s] copying resource/my_py_pkg -> /home/fog/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[1.543s] copying package.xml -> /home/fog/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[1.543s] running install_egg_info
+[1.545s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[1.547s] running install_scripts
+[1.567s] Installing add_three_ints_server script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.567s] Installing add_two_ints_client script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.568s] Installing add_two_ints_server script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.568s] Installing number_count script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.568s] Installing number_pub script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.568s] Installing robot_pub script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.568s] Installing robot_sub script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.568s] Installing weather_show_pub script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.568s] writing list of installed files to '/home/fog/ros2_ws/build/my_py_pkg/install.log'
+[1.586s] Invoked command in '/home/fog/ros2_ws/src/my_py_pkg' returned '0': PYTHONPATH=/home/fog/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/fog/ros2_ws/build/my_py_pkg/build install --record /home/fog/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data --force

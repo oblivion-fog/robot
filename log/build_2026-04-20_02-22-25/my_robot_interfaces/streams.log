@@ -1,0 +1,214 @@
+[0.257s] Invoking command in '/home/fog/ros2_ws/build/my_robot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/fog/ros2_ws/build/my_robot_interfaces -- -j16 -l16
+[0.431s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_generator_c[0m
+[0.441s] [  1%] Built target my_robot_interfaces__cpp
+[0.442s] [  3%] Built target my_robot_interfaces__rs
+[0.452s] [  3%] Built target ament_cmake_python_symlink_my_robot_interfaces
+[0.456s] [ 14%] Built target my_robot_interfaces__rosidl_generator_c
+[0.465s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[0.468s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_introspection_cpp[0m
+[0.469s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_cpp[0m
+[0.479s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_introspection_c[0m
+[0.479s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_c[0m
+[0.481s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_fastrtps_c[0m
+[0.496s] [ 35%] Built target my_robot_interfaces__rosidl_typesupport_cpp
+[0.496s] [ 35%] Built target my_robot_interfaces__rosidl_typesupport_introspection_cpp
+[0.497s] [ 46%] Built target my_robot_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.497s] [ 57%] Built target my_robot_interfaces__rosidl_typesupport_introspection_c
+[0.497s] [ 68%] Built target my_robot_interfaces__rosidl_typesupport_c
+[0.504s] [ 79%] Built target my_robot_interfaces__rosidl_typesupport_fastrtps_c
+[0.537s] [ 79%] Built target my_robot_interfaces
+[0.570s] [ 81%] Built target my_robot_interfaces__py
+[0.592s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_generator_py[0m
+[0.618s] [ 90%] Built target my_robot_interfaces__rosidl_generator_py
+[0.638s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_c__pyext[0m
+[0.638s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[0.640s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.657s] [ 93%] Built target my_robot_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.657s] [ 96%] Built target my_robot_interfaces__rosidl_typesupport_c__pyext
+[0.659s] [100%] Built target my_robot_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.698s] running egg_info
+[0.698s] writing my_robot_interfaces.egg-info/PKG-INFO
+[0.699s] writing dependency_links to my_robot_interfaces.egg-info/dependency_links.txt
+[0.699s] writing top-level names to my_robot_interfaces.egg-info/top_level.txt
+[0.701s] reading manifest file 'my_robot_interfaces.egg-info/SOURCES.txt'
+[0.703s] writing manifest file 'my_robot_interfaces.egg-info/SOURCES.txt'
+[0.731s] [100%] Built target ament_cmake_python_build_my_robot_interfaces_egg
+[0.748s] Invoked command in '/home/fog/ros2_ws/build/my_robot_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/fog/ros2_ws/build/my_robot_interfaces -- -j16 -l16
+[0.765s] Invoking command in '/home/fog/ros2_ws/build/my_robot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/fog/ros2_ws/build/my_robot_interfaces
+[0.776s] -- Install configuration: ""
+[0.778s] -- Execute custom install script
+[0.779s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/ament_index/resource_index/rosidl_interfaces/my_robot_interfaces
+[0.782s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle__functions.h
+[0.783s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle__struct.h
+[0.783s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle__type_support.h
+[0.784s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle_array__functions.h
+[0.784s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle_array__struct.h
+[0.785s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle_array__type_support.h
+[0.786s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/weather__functions.h
+[0.786s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/weather__struct.h
+[0.787s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/weather__type_support.h
+[0.787s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/rosidl_generator_c__visibility_control.h
+[0.788s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/turtle.h
+[0.788s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/turtle_array.h
+[0.788s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/weather.h
+[0.789s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/addthree_ints.h
+[0.789s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/catch_turtle.h
+[0.790s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/addthree_ints__functions.h
+[0.790s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/addthree_ints__struct.h
+[0.791s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/addthree_ints__type_support.h
+[0.791s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/catch_turtle__functions.h
+[0.792s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/catch_turtle__struct.h
+[0.792s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/catch_turtle__type_support.h
+[0.793s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/environment/library_path.sh
+[0.793s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/environment/library_path.dsv
+[0.796s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle__rosidl_typesupport_fastrtps_c.h
+[0.796s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle_array__rosidl_typesupport_fastrtps_c.h
+[0.797s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/weather__rosidl_typesupport_fastrtps_c.h
+[0.797s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.798s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/addthree_ints__rosidl_typesupport_fastrtps_c.h
+[0.798s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/catch_turtle__rosidl_typesupport_fastrtps_c.h
+[0.801s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle__rosidl_typesupport_introspection_c.h
+[0.801s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle_array__rosidl_typesupport_introspection_c.h
+[0.801s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/weather__rosidl_typesupport_introspection_c.h
+[0.802s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.802s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/addthree_ints__rosidl_typesupport_introspection_c.h
+[0.803s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/catch_turtle__rosidl_typesupport_introspection_c.h
+[0.806s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle__builder.hpp
+[0.806s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle__struct.hpp
+[0.807s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle__traits.hpp
+[0.807s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle__type_support.hpp
+[0.808s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle_array__builder.hpp
+[0.808s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle_array__struct.hpp
+[0.808s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle_array__traits.hpp
+[0.809s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle_array__type_support.hpp
+[0.809s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/weather__builder.hpp
+[0.810s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/weather__struct.hpp
+[0.810s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/weather__traits.hpp
+[0.810s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/weather__type_support.hpp
+[0.811s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.811s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/turtle.hpp
+[0.812s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/turtle_array.hpp
+[0.812s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/weather.hpp
+[0.813s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/addthree_ints.hpp
+[0.814s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/catch_turtle.hpp
+[0.814s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/addthree_ints__builder.hpp
+[0.815s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/addthree_ints__struct.hpp
+[0.815s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/addthree_ints__traits.hpp
+[0.816s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/addthree_ints__type_support.hpp
+[0.816s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/catch_turtle__builder.hpp
+[0.817s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/catch_turtle__struct.hpp
+[0.817s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/catch_turtle__traits.hpp
+[0.818s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/catch_turtle__type_support.hpp
+[0.820s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle__rosidl_typesupport_fastrtps_cpp.hpp
+[0.821s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle_array__rosidl_typesupport_fastrtps_cpp.hpp
+[0.821s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/weather__rosidl_typesupport_fastrtps_cpp.hpp
+[0.822s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.823s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/addthree_ints__rosidl_typesupport_fastrtps_cpp.hpp
+[0.823s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/catch_turtle__rosidl_typesupport_fastrtps_cpp.hpp
+[0.825s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle__rosidl_typesupport_introspection_cpp.hpp
+[0.826s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/turtle_array__rosidl_typesupport_introspection_cpp.hpp
+[0.826s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/msg/detail/weather__rosidl_typesupport_introspection_cpp.hpp
+[0.827s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/addthree_ints__rosidl_typesupport_introspection_cpp.hpp
+[0.827s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/include/my_robot_interfaces/my_robot_interfaces/srv/detail/catch_turtle__rosidl_typesupport_introspection_cpp.hpp
+[0.828s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/environment/pythonpath.sh
+[0.829s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/environment/pythonpath.dsv
+[0.829s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[0.829s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.830s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.830s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[0.831s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/__init__.py
+[0.832s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/_my_robot_interfaces_s.ep.rosidl_typesupport_c.c
+[0.832s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/_my_robot_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.833s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/_my_robot_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[0.833s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/libmy_robot_interfaces__rosidl_generator_py.so
+[0.833s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/msg/__init__.py
+[0.835s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/msg/_turtle.py
+[0.835s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/msg/_turtle_array.py
+[0.835s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/msg/_turtle_array_s.c
+[0.836s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/msg/_turtle_s.c
+[0.836s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/msg/_weather.py
+[0.839s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/msg/_weather_s.c
+[0.839s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/my_robot_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.840s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/my_robot_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.842s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/my_robot_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.842s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/srv/__init__.py
+[0.842s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/srv/_addthree_ints.py
+[0.843s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/srv/_addthree_ints_s.c
+[0.843s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/srv/_catch_turtle.py
+[0.843s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/srv/_catch_turtle_s.c
+[0.843s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/my_robot_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.843s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/my_robot_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.843s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/my_robot_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.843s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/ament_index/resource_index/rust_packages/my_robot_interfaces
+[0.844s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/rust/Cargo.toml
+[0.844s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/rust/build.rs
+[0.845s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/rust/src/lib.rs
+[0.845s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/rust/src/msg.rs
+[0.845s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/rust/src/msg/rmw.rs
+[0.845s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/rust/src/srv.rs
+[0.846s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/rust/src/srv/rmw.rs
+[0.847s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/msg/Weather.idl
+[0.847s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/msg/Turtle.idl
+[0.847s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/msg/TurtleArray.idl
+[0.848s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/srv/AddthreeInts.idl
+[0.848s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/srv/CatchTurtle.idl
+[0.849s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/msg/Weather.msg
+[0.849s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/msg/Turtle.msg
+[0.849s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/msg/TurtleArray.msg
+[0.850s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/srv/AddthreeInts.srv
+[0.850s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/srv/AddthreeInts_Request.msg
+[0.851s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/srv/AddthreeInts_Response.msg
+[0.851s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/srv/CatchTurtle.srv
+[0.852s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/srv/CatchTurtle_Request.msg
+[0.852s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/srv/CatchTurtle_Response.msg
+[0.852s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/ament_index/resource_index/package_run_dependencies/my_robot_interfaces
+[0.853s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/ament_index/resource_index/parent_prefix_path/my_robot_interfaces
+[0.853s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/environment/ament_prefix_path.sh
+[0.853s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/environment/ament_prefix_path.dsv
+[0.854s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/environment/path.sh
+[0.854s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/environment/path.dsv
+[0.855s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/local_setup.bash
+[0.855s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/local_setup.sh
+[0.856s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/local_setup.zsh
+[0.856s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/local_setup.dsv
+[0.856s] -- Symlinking: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/package.dsv
+[0.869s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/ament_index/resource_index/packages/my_robot_interfaces
+[0.869s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/rosidl_cmake-extras.cmake
+[0.870s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.870s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[0.871s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[0.871s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.872s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.873s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.873s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/my_robot_interfacesConfig.cmake
+[0.874s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/my_robot_interfacesConfig-version.cmake
+[0.874s] -- Up-to-date symlink: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/package.xml
+[0.875s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/lib/libmy_robot_interfaces__rosidl_generator_c.so
+[0.876s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/lib/libmy_robot_interfaces__rosidl_typesupport_fastrtps_c.so
+[0.877s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/lib/libmy_robot_interfaces__rosidl_typesupport_introspection_c.so
+[0.879s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/lib/libmy_robot_interfaces__rosidl_typesupport_c.so
+[0.880s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/lib/libmy_robot_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[0.881s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/lib/libmy_robot_interfaces__rosidl_typesupport_introspection_cpp.so
+[0.882s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/lib/libmy_robot_interfaces__rosidl_typesupport_cpp.so
+[0.923s] Listing '/home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces'...
+[0.923s] Listing '/home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/msg'...
+[0.923s] Listing '/home/fog/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages/my_robot_interfaces/srv'...
+[0.929s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/lib/libmy_robot_interfaces__rosidl_generator_py.so
+[0.930s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/export_my_robot_interfaces__rosidl_generator_cExport.cmake
+[0.930s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/export_my_robot_interfaces__rosidl_generator_cExport-noconfig.cmake
+[0.931s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/export_my_robot_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[0.931s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/export_my_robot_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.932s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/my_robot_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[0.932s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/my_robot_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.932s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/my_robot_interfaces__rosidl_typesupport_cExport.cmake
+[0.932s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/my_robot_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[0.934s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/export_my_robot_interfaces__rosidl_generator_cppExport.cmake
+[0.934s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/export_my_robot_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.935s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/export_my_robot_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.935s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/my_robot_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[0.935s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/my_robot_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.936s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/my_robot_interfaces__rosidl_typesupport_cppExport.cmake
+[0.936s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/my_robot_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[0.937s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/export_my_robot_interfaces__rosidl_generator_pyExport.cmake
+[0.937s] -- Up-to-date: /home/fog/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake/export_my_robot_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[0.941s] Invoked command in '/home/fog/ros2_ws/build/my_robot_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/fog/ros2_ws/build/my_robot_interfaces

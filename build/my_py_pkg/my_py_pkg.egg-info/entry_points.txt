@@ -1,0 +1,10 @@
+[console_scripts]
+add_three_ints_server = my_py_pkg.add_three_ints_server:main
+add_two_ints_client = my_py_pkg.add_two_ints_client:main
+add_two_ints_server = my_py_pkg.add_two_ints_server:main
+number_count = my_py_pkg.number_count:main
+number_pub = my_py_pkg.number_pub:main
+robot_pub = my_py_pkg.robot_pub:main
+robot_sub = my_py_pkg.robot_sub:main
+weather_show_pub = my_py_pkg.weather_show:main
+

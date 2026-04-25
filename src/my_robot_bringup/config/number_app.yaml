@@ -1,0 +1,5 @@
+# node name: number_pub
+/number_pub:
+  ros__parameters:
+    number: 3
+    timer_period: 0.8

@@ -1,0 +1,31 @@
+[0.879s] Invoking command in '/home/fog/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/fog/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/fog/ros2_ws/build/my_py_pkg/build --no-deps symlink_data
+[1.127s] running develop
+[1.279s] running egg_info
+[1.279s] creating my_py_pkg.egg-info
+[1.279s] writing my_py_pkg.egg-info/PKG-INFO
+[1.279s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[1.279s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[1.280s] writing requirements to my_py_pkg.egg-info/requires.txt
+[1.280s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[1.280s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.281s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.282s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.283s] running build_ext
+[1.283s] Creating /home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.284s] Installing add_three_ints_server script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.285s] Installing add_two_ints_client script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.285s] Installing add_two_ints_server script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.285s] Installing number_count script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.285s] Installing number_pub script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.285s] Installing robot_pub script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.285s] Installing robot_sub script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.285s] Installing weather_show_pub script to /home/fog/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.285s] 
+[1.285s] Installed /home/fog/ros2_ws/build/my_py_pkg
+[1.285s] running symlink_data
+[1.286s] creating /home/fog/ros2_ws/install/my_py_pkg/share/ament_index
+[1.286s] creating /home/fog/ros2_ws/install/my_py_pkg/share/ament_index/resource_index
+[1.286s] creating /home/fog/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[1.286s] symbolically linking /home/fog/ros2_ws/build/my_py_pkg/resource/my_py_pkg -> /home/fog/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[1.286s] symbolically linking /home/fog/ros2_ws/build/my_py_pkg/package.xml -> /home/fog/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[1.308s] Invoked command in '/home/fog/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/fog/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fog/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/fog/ros2_ws/build/my_py_pkg/build --no-deps symlink_data
